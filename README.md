@@ -1,7 +1,7 @@
 # Real Estat Django Web App
 
 ## Web App F eatures
-* FRONTEND PAGES
+FRONTEND PAGES
 
     • Home
     • About
@@ -12,7 +12,7 @@
     • Login
     • Dashboard (Inquiries)
     
-* DESIGN SPECS
+DESIGN SPECS
     • Use Any Logo (Frontend and admin)
     • Branding colors – blue(#10284e) green(#30caa0)
     • Mobile Friendly
