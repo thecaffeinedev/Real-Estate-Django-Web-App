@@ -10,11 +10,11 @@ FRONTEND PAGES
 
 - [x]  About
 - [x]  Listings
-- [ ]  Single Listing
-- [ ]  Search
-- [ ]  Register
-- [ ]  Login
-- [ ]  Dashboard (Inquiries)
+- [x]  Single Listing
+- [x]  Search
+- [x]  Register
+- [x]  Login
+- [x]  Dashboard (Inquiries)
 
 
 DESIGN SPECIFICATION
@@ -32,16 +32,16 @@ FUNCTIONALITY SPECS
 
 - [x]  Role based users (staff and non-staff)
 - [x]  Display listings in app with pagination
-- [ ]  Ability to set listings to unpublished
-- [ ]  Search listings by keyword, city, state, bedrooms and price (Homepage & search page)
-- [ ]  List realtors on about page with “seller of the month” (Control via admin)
+- [x]  Ability to set listings to unpublished
+- [x]  Search listings by keyword, city, state, bedrooms and price (Homepage & search page)
+- [x]  List realtors on about page with “seller of the month” (Control via admin)
 - [x]  Listing page should have fields listed below
 - [x]  Listing page should have 5 images with lightbox
-- [ ]  Lightbox should scroll through images
-- [ ]  Listing page should have a form to submit inquiry for that property listing
-- [ ]  Form info should go to database and notify realtor(s) with an email
-- [ ]  Frontend register/login to track inquiries
-- [ ]  Both unregistered and registered users can submit form. If registered, can only submit one per listing
+- [x]  Lightbox should scroll through images
+- [x]  Listing page should have a form to submit inquiry for that property listing
+- [x]  Form info should go to database and notify realtor(s) with an email
+- [x]  Frontend register/login to track inquiries
+- [x]  Both unregistered and registered users can submit form. If registered, can only submit one per listing
 
 LISTING PAGE FIELDS
 
