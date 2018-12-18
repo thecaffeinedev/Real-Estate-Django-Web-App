@@ -2,10 +2,10 @@
 
 If you are new to Django, checkout the [Django 2.x Cheat Sheet](https://github.com/TheCaffeineDev/Real-Estate-Django-Web-App/blob/master/django_cheat_sheet.md)
 
-If you want to deploy this Web App In Ubuntu 18.04 Server, Follow this Guide
+If you want to deploy this Web App In Ubuntu 18.04 Server, Follow this [Guide](https://github.com/TheCaffeineDev/Real-Estate-Django-Web-App/blob/master/Django_Deployment_to_Ubuntu_18.04.md) 
 
 ## Web App Features
-FRONTEND PAGES
+**FRONTEND PAGES**
 
 - [x] 
    Home
@@ -18,8 +18,7 @@ FRONTEND PAGES
 - [x]  Login
 - [x]  Dashboard (Inquiries)
 
-
-DESIGN SPECIFICATION
+**DESIGN SPECIFICATION**
 
 - [x]  Use Any Logo (Frontend and admin)
 
@@ -28,7 +27,7 @@ DESIGN SPECIFICATION
 - [x]  Social media icons & contact info
 - [x]  Doesn’t have to be too fancy but must be clean
 
-FUNCTIONALITY SPECS
+**FUNCTIONALITY SPECS**
 
 - [x]  Manage listings, realtors, contact inquiries and website users via admin
 
@@ -45,7 +44,7 @@ FUNCTIONALITY SPECS
 - [x]  Frontend register/login to track inquiries
 - [x]  Both unregistered and registered users can submit form. If registered, can only submit one per listing
 
-LISTING PAGE FIELDS
+**LISTING PAGE FIELDS**
 
 - [x] Title
 - [x]  Address, city, state, zip
