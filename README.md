@@ -2,6 +2,8 @@
 
 If you are new to Django, checkout the [Django 2.x Cheat Sheet](https://github.com/TheCaffeineDev/Real-Estate-Django-Web-App/blob/master/django_cheat_sheet.md)
 
+If you want to deploy this Web App In Ubuntu 18.04 Server, Follow this Guide
+
 ## Web App Features
 FRONTEND PAGES
 
