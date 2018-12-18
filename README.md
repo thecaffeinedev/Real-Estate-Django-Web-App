@@ -62,3 +62,6 @@ If you want to deploy this Web App In Ubuntu 18.04 Server, Follow this [Guide](h
 
 ### Screenshots
 
+- **HOME**
+
+![Home](https://github.com/TheCaffeineDev/Real-Estate-Django-Web-App/blob/master/screenshots/s1.JPG)
