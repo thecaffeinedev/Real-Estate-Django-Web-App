@@ -28,15 +28,15 @@ DESIGN SPECIFICATION
 
 FUNCTIONALITY SPECS
 
-- [ ]  Manage listings, realtors, contact inquiries and website users via admin
+- [x]  Manage listings, realtors, contact inquiries and website users via admin
 
-- [ ]  Role based users (staff and non-staff)
-- [ ]  Display listings in app with pagination
+- [x]  Role based users (staff and non-staff)
+- [x]  Display listings in app with pagination
 - [ ]  Ability to set listings to unpublished
 - [ ]  Search listings by keyword, city, state, bedrooms and price (Homepage & search page)
 - [ ]  List realtors on about page with “seller of the month” (Control via admin)
-- [ ]  Listing page should have fields listed below
-- [ ]  Listing page should have 5 images with lightbox
+- [x]  Listing page should have fields listed below
+- [x]  Listing page should have 5 images with lightbox
 - [ ]  Lightbox should scroll through images
 - [ ]  Listing page should have a form to submit inquiry for that property listing
 - [ ]  Form info should go to database and notify realtor(s) with an email
@@ -45,19 +45,18 @@ FUNCTIONALITY SPECS
 
 LISTING PAGE FIELDS
 
-- [ ] Title
-- [ ]  Address, city, state, zip
-- [ ]  Price
-- [ ]  Bedrooms
-- [ ]  Bathrooms
-- [ ]  Square Feet
-- [ ]  Lot Size
-- [ ]  Garage
-- [ ]  Listing Date
-- [ ]  Realtor – Name & Image
-- [ ]  Main image and 5 other images
+- [x] Title
+- [x]  Address, city, state, zip
+- [x]  Price
+- [x]  Bedrooms
+- [x]  Bathrooms
+- [x]  Square Feet
+- [x]  Lot Size
+- [x]  Garage
+- [x]  Listing Date
+- [x]  Realtor – Name & Image
+- [x] Main image and 5 other images
 
-  
 
 
 
