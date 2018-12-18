@@ -65,3 +65,24 @@ If you want to deploy this Web App In Ubuntu 18.04 Server, Follow this [Guide](h
 - **HOME**
 
 ![Home](https://github.com/TheCaffeineDev/Real-Estate-Django-Web-App/blob/master/screenshots/s1.JPG)
+
+- **Listings** 
+
+
+![Listings](https://github.com/TheCaffeineDev/Real-Estate-Django-Web-App/blob/master/screenshots/s3list.JPG)
+
+- **Registration** 
+
+![Registration](https://github.com/TheCaffeineDev/Real-Estate-Django-Web-App/blob/master/screenshots/s4reg.JPG)
+
+- **Admin Panel - 1**
+
+![Admin](https://github.com/TheCaffeineDev/Real-Estate-Django-Web-App/blob/master/screenshots/s5adm.JPG)
+
+- **Admin Panel - 2**
+
+![Admin](https://github.com/TheCaffeineDev/Real-Estate-Django-Web-App/blob/master/screenshots/s6r.JPG)
+
+- **About**
+
+![About ](https://github.com/TheCaffeineDev/Real-Estate-Django-Web-App/blob/master/screenshots/s2about.JPG)
