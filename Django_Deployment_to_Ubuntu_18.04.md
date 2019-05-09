@@ -244,7 +244,7 @@ Create a new repo and push to it (you guys know how to do that)
 ### Clone the project into the app folder on your server (Either HTTPS or setup SSH keys)
 
 ```
-# git clone https://github.com/yourgithubname/btre_project.git
+# https://github.com/TheCaffeineDev/Real-Estate-Django-Web-App.git
 ```
 
 ## Install pip modules from requirements
