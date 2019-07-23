@@ -58,7 +58,10 @@ If you want to deploy this Web App In Ubuntu 18.04 Server, Follow this [Guide](h
 - [x]  Realtor – Name & Image
 - [x] Main image and 5 other images
 
+**Backend**
+For Database I have used Postgres Database Name: real_estate
 
+Note: Please change those gmail credentials from real_estate folder you will get settings.py inside that file you will see username and password mentioned as place your Username and Password. Also do that same thing from Contacts folder views.py you will see YourEmail mentioned on line number 33.
 
 ### Screenshots
 
