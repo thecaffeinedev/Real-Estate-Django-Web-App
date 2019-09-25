@@ -173,13 +173,13 @@ You should now be logged into the pg shell
 ### Create a database
 
 ```
-CREATE DATABASE btre_prod;
+CREATE DATABASE real_estate;
 ```
 
 ### Create user
 
 ```
-CREATE USER dbadmin WITH PASSWORD 'abc123!';
+CREATE USER postgres WITH PASSWORD 'abc123!';
 ```
 
 ### Set default encoding, tansaction isolation scheme (Recommended from Django)
