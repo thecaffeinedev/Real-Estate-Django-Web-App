@@ -193,7 +193,7 @@ ALTER ROLE dbadmin SET timezone TO 'UTC';
 ### Give User access to database
 
 ```
-GRANT ALL PRIVILEGES ON DATABASE btre_prod TO dbadmin;
+GRANT ALL PRIVILEGES ON DATABASE real_estate TO dbadmin;
 ```
 
 ### Quit out of Postgres
