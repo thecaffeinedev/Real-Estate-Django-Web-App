@@ -170,3 +170,8 @@ Note: Please change those gmail credentials from real_estate folder you will get
 
 
 If you face any problems, please let me know !
+
+##### References
+
+1. https://www.traversymedia.com/
+2. https://www.djangoproject.com/
