@@ -92,6 +92,37 @@ python manage.py runserver
 And you are good to go. 
 
 
+**To run with SQLite only**
+
+Go inside the 'realestate' folder and open 'settings.py' file and replace
+
+```sh
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'real_estate' ,
+        'USER': 'pks',
+        'PASSWORD': 'abc123!',
+        'HOST':'localhost',
+        
+    }
+}
+```
+
+To: 
+
+```sh
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+    }
+}
+
+```
+
+This is the default configuration of Django database.
+
 
 **Backend**
 
