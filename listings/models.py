@@ -8,7 +8,7 @@ class Listing(models.Model):
   address = models.CharField(max_length=200)
   city = models.CharField(max_length=100)
   state = models.CharField(max_length=100)
-  zipcode = models.CharField(max_length=20)
+  zipcode = models.CharField(max_length=8) //max length was 20//
   description = models.TextField(blank=True)
   price = models.IntegerField()
   bedrooms = models.IntegerField()
